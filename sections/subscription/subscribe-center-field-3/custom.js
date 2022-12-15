@@ -82,4 +82,4 @@ $('.contact_form').submit(function () {
         //if data was invalidated
     }
     return false;
-});
+});# Change 0 on 2022-12-15
